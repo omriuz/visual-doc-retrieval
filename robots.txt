@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://visual-doc-retrieval.github.io/sitemap.xml
+Sitemap: https://omriuz.github.io/visual-doc-retrieval/sitemap.xml
